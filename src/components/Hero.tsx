@@ -1,7 +1,7 @@
 
 import React from "react";
 import { Button } from "@/components/ui/button";
-import { Heart, Search } from "lucide-react";
+import { Heart, Search, Droplets } from "lucide-react";
 import { Link } from "react-router-dom";
 import FadeIn from "./animations/FadeIn";
 import BlurCard from "./ui/BlurCard";
